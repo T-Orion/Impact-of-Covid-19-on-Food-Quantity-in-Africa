@@ -9,10 +9,7 @@ The change in the availability of food  due to supply chains being affected, or 
 ## Guidelines
 ### Your goal is to help your client by using the CRISP-DM methodology:
 
-*  #### At the outset (for the 1st internal touchpoint)
-1st draft of the Ghost deck for the interim-present back - what you found, based on which data and and how you want to proceed with the detailed analysis.
-List out who will do what - divide up the team to take up different roles.  Consider the data, modelling, visualization and reporting sides of the question.  Consider nominating a single person who is responsible for keeping the team on-schedule.
-Make sure you understand the business question being asked - prepare a list of questions to ask.  Initial exploration of the data will help you in achieving this.
+*  #### At the outset (for the 1st internal touchpoint). 1st draft of the Ghost deck for the interim-present back - what you found, based on which data and and how you want to proceed with the detailed analysis. List out who will do what - divide up the team to take up different roles.  Consider the data, modelling, visualization and reporting sides of the question.  Consider nominating a single person who is responsible for keeping the team on-schedule. Make sure you understand the business question being asked - prepare a list of questions to ask.  Initial exploration of the data will help you in achieving this.
 
 * #### Gather initial data around the question assigned to your group - as much as possible in each of the pre-COVID, COVID-lockdown and post-COVID situations.  Being creative here will be important and will drive a lot of your success.  Consider how to gather data which isn’t too biased to a few countries, despite Twitter data being inherently biased to specific countries, how to look for enough keywords and hashtags to get a sufficiently representative sample and look for other corroborating data to inform and add to the information that you have gathered
 * #### Understand and explore the initial data and use it to develop your model and strategy
