@@ -9,7 +9,7 @@ The change in the availability of food  due to supply chains being affected, or 
 ## Guidelines
 ### Your goal is to help your client by using the CRISP-DM methodology:
 
-#### At the outset (for the 1st internal touchpoint)
+*  #### At the outset (for the 1st internal touchpoint)
 1st draft of the Ghost deck for the interim-present back - what you found, based on which data and and how you want to proceed with the detailed analysis.
 List out who will do what - divide up the team to take up different roles.  Consider the data, modelling, visualization and reporting sides of the question.  Consider nominating a single person who is responsible for keeping the team on-schedule.
 Make sure you understand the business question being asked - prepare a list of questions to ask.  Initial exploration of the data will help you in achieving this.
